@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "64b95c2fed269173b296a4bb"
+  },
+  "name": "Iwan Fals",
+  "dateOfBirth": "3 September 1961",
+  "genres": [
+    "Pop",
+    "Jazz",
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b95c2fed269173b296a4bc"
+  },
+  "name": "Ahmad Dani",
+  "dateOfBirth": "26 Mei 1972",
+  "genres": [
+    "Pop",
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b95c45ed269173b296a4bd"
+  },
+  "name": "Ari Lasso",
+  "dateOfBirth": "17 Januari 1973",
+  "genres": [
+    "Pop",
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b95c45ed269173b296a4be"
+  },
+  "name": "Ariel Noah",
+  "dateOfBirth": "16 September 1981",
+  "genres": [
+    "Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b95cfbed269173b296a4bf"
+  },
+  "name": "Afgan",
+  "dateOfBirth": "27 Mei 1989",
+  "genres": [
+    "Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b95cfbed269173b296a4c0"
+  },
+  "name": "Rossa",
+  "dateOfBirth": "9 Oktober 1978",
+  "genres": [
+    "Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b95cfbed269173b296a4c1"
+  },
+  "name": "Ziva Magnolya",
+  "dateOfBirth": "14 Maret 2001",
+  "genres": [
+    "Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b95d44ed269173b296a4c2"
+  },
+  "name": "Bunga Cinta Lestari",
+  "dateOfBirth": "22 March 1983",
+  "genres": [
+    "Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b95d44ed269173b296a4c3"
+  },
+  "name": "Andika Mahesa",
+  "dateOfBirth": "21 Mei 1983",
+  "genres": [
+    "Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b95d5bed269173b296a4c4"
+  },
+  "name": "Tulus",
+  "dateOfBirth": "20 Agustus 1987",
+  "genres": [
+    "Pop"
+  ]
+}]

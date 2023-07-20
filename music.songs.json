@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "64b95626ed269173b296a4af"
+  },
+  "title": "Aitakatta",
+  "artist": "JKT 48",
+  "album": "JKT48 In Concert: Perkenalkan Nama Kami"
+},
+{
+  "_id": {
+    "$oid": "64b956d1ed269173b296a4b0"
+  },
+  "title": "Surat Buat Wakil Rakyat",
+  "artist": "Iwan Fals",
+  "album": "Wakil Rakyat"
+},
+{
+  "_id": {
+    "$oid": "64b956d1ed269173b296a4b1"
+  },
+  "title": "Roman Picisan",
+  "artist": "Dewa 19",
+  "album": "Bintang Lima"
+},
+{
+  "_id": {
+    "$oid": "64b956d1ed269173b296a4b2"
+  },
+  "title": "Separuh Aku",
+  "album": "Seperti Seharusnya",
+  "artist": "Noah"
+},
+{
+  "_id": {
+    "$oid": "64b956d1ed269173b296a4b3"
+  },
+  "title": "Panah Asmara",
+  "artist": "Afgan",
+  "album": "The One"
+},
+{
+  "_id": {
+    "$oid": "64b95786ed269173b296a4b4"
+  },
+  "title": "Mata Indah Bola Pimpong",
+  "artist": "Iwan Fals",
+  "album": "Wakil Rakyat"
+},
+{
+  "_id": {
+    "$oid": "64b95b6ded269173b296a4b5"
+  },
+  "title": "Takdir Cinta",
+  "artist": "Rossa",
+  "album": "Ayat-Ayat Cinta"
+},
+{
+  "_id": {
+    "$oid": "64b95b6ded269173b296a4b6"
+  },
+  "title": "Terlukis Indah",
+  "artist": "Ziva Magnolya",
+  "album": "Magnolya"
+},
+{
+  "_id": {
+    "$oid": "64b95b95ed269173b296a4b7"
+  },
+  "title": "Karena Cinta Kau",
+  "artist": "Bunga Cinta Lestari",
+  "album": "The Best of BCL"
+},
+{
+  "_id": {
+    "$oid": "64b95baced269173b296a4b8"
+  },
+  "title": "Pesawat Kertas 365 Hari",
+  "artist": "JKT 48",
+  "album": "Mahagita - Kamikyokutachi"
+},
+{
+  "_id": {
+    "$oid": "64b95baced269173b296a4b9"
+  },
+  "title": "Cinta Yang Sempurna",
+  "artist": "Kangen Band",
+  "album": "Bintang 14 Hari"
+},
+{
+  "_id": {
+    "$oid": "64b95baced269173b296a4ba"
+  },
+  "title": "Hati-Hati di Jalan",
+  "artist": "Tulus",
+  "album": "Manusia"
+}]
