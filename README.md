@@ -1,4 +1,4 @@
-GIGIH 3.0 : Homework modul 3.1
+<b>GIGIH 3.0 : Homework modul 3.1</b>
 
 Create a database that stores the following information:
 
